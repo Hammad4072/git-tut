@@ -4,7 +4,7 @@ hey look here, there is a code of two lines
 3nummber 3 is a winner
 4
 5
-6
+6number 6 is a loser
 7
 8
 9
